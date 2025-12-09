@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/alarm_uart.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>1049728</length>                 
+      <used>15408</used>                     
+      <free>1034320</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>263024</length>                 
+      <used>1804</used>                     
+      <free>261220</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

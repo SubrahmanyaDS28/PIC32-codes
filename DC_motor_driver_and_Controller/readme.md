@@ -1,5 +1,5 @@
-PIC32-Based Closed-Loop Motor Controller
-Overview
+# PIC32-Based Closed-Loop Motor Controller
+## Overview
 This repository contains the firmware and hardware design for a rudimentary closed-loop DC motor control system. Designed for precision-dependent applications like telescope motion control, the system utilizes a PIC32MK1024MCM100 microcontroller to implement a real-time PI (Proportional-Integral) control algorithm. 
 The system dynamically adjusts motor speed based on feedback from a MOC7811 optical slot sensor, ensuring stable rotation even under varying load conditions. 
 Hardware Specifications

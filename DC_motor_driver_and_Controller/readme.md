@@ -21,7 +21,7 @@ The firmware is developed in Embedded C using a bare-metal approach (no external
 Key Modules:
 - Timer2: Configured in 32-bit mode to generate 100 Hz interrupts for the periodic PI loop. 
 - INT3: External interrupt used for high-precision slot pulse counting. 
-- UART6: Implements a circular command buffer with STx/ETx delimiters for robust command processing. 
+- UART2: Implements a circular command buffer with STx/ETx delimiters for robust command processing. 
 - OC5: Handles PWM generation with high-resolution duty cycle updates. 
 ## Control Parameters
 The system was tuned experimentally to balance responsiveness and stability: 

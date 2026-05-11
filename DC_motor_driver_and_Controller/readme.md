@@ -39,4 +39,4 @@ The system was tuned experimentally to balance responsiveness and stability:
 * Implementation of ramping profiles for smooth acceleration/deceleration. 
 
     
-I took a referece to do this project. That report is added in the repository - DEVELOPMENT_OF_A_PIC32-BASED_MOTOR_CONTROLLER_PROJECT_REPORT.pdf
+I took a referece to do this project. That report is added in the repository -[DEVELOPMENT_OF_A_PIC32-BASED_MOTOR_CONTROLLER_PROJECT_REPORT.pdf](https://github.com/SubrahmanyaDS28/PIC32-codes/blob/main/DC_motor_driver_and_Controller/DEVELOPMENT_OF_A_PIC32-BASED_MOTOR_CONTROLLER_PROJECT_REPORT.pdf)
